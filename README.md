@@ -13,4 +13,4 @@ $ <i><b>blockMesh</b></i>
 
 $ <i><b>icoFoam</b></i>
 
-These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by S. Verma, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas.
+These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by <b>S. Verma</b>, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas.
