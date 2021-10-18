@@ -13,6 +13,8 @@ $ <i><b>blockMesh</b></i>
 
 $ <i><b>icoFoam</b></i>
 
+<img src="https://github.com/timusv5977/CFD-Tornado-Simulator/blob/main/tornado_building_impact.gif" style="width:800px;height:400px;">
+
 These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by <b>S. Verma</b>, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas.
 This work is supported by the award from National Science Foundation (NSF) under Grant No. CMMI-1762999. 
 <a href = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762999&HistoricalAwards=false"> <<Visit NSF page here !>></a>
