@@ -7,10 +7,10 @@ To run the simulation, the following commands should be executed in the Linux te
 
 • Generate hexahedral multi-block mesh
 
-$ blockMesh
+$ <i><b>blockMesh</b></i>
 
 • Run the simulation
 
-$ <i>icoFoam</i>
+$ <i><b>icoFoam</b></i>
 
 These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by S. Verma, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas.
