@@ -13,7 +13,7 @@ $ <i><b>blockMesh</b></i>
 
 $ <i><b>icoFoam</b></i>
 
-<img src="https://github.com/timusv5977/Straight-Line-Wind-Flow/blob/main/flow_around_building.gif" style="width:800px;height:400px;">
+<center><img src="https://github.com/timusv5977/Straight-Line-Wind-Flow/blob/main/flow_around_building.gif" style="width:800px;height:400px;"></center>
 
 These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by <b>S. Verma</b>, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas.
 This work is supported by the award from National Science Foundation (NSF) under <b>Grant No. CMMI-1762999</b>. 
